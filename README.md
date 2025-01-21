@@ -1,7 +1,7 @@
 # Neoware CA2 - Splash Free BIOS
 This is a BIOS file for Neoware CA2 without that annoying splash screen.
 
-Simply burn this file to a SST39SF020A @PLCC32, carefully remove your stock BIOS and place the new one in. That's all!
+Simply burn CA2_BIOS_NO_SPLASH.BIN to a SST39SF020A @PLCC32, carefully remove your stock BIOS and place the new one in. That's all!
 
 You can also overwrite your stock BIOS, but be sure to back it up before flashing!
 
